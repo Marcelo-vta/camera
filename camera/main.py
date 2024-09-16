@@ -1,4 +1,5 @@
 import camera
+import app
 import os
 from pathlib import Path
 from rich.console import Console
@@ -32,3 +33,6 @@ def demo():
 
 if __name__ == "__main__":
     app()
+
+def main():
+    app.run()
