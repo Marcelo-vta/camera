@@ -150,20 +150,11 @@ def run():
             mv_l = False
             mv_r = False
             mv_u = False
-            mv_d = False
-
-        print(mv_u,)
-
-        
+            mv_d = False       
             
 
     # Ao sair do loop, vamos devolver cuidadosamente os recursos ao sistema!
     cap.release()
     cv.destroyAllWindows()
 
-print(run())
-
-# for i in criar_indices(0,100,0,100)[0]:
-#     print()
-
-# print(len(criar_indices(0,100,0,100)[1]))
+run()
