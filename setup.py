@@ -36,7 +36,7 @@ setup(
     python_requires='>=3.11',
     entry_points={
         'console_scripts': [
-            f'camera-irl-cli={MODULE_STUB}.main:main',
+            f'camera-irl-cli=camera-irl.main:main',
         ],
     },
     install_requires=[  # Instala as dependências especificadas no requirements.txt
