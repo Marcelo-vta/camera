@@ -7,3 +7,4 @@ Comandos:
 - rotacionar: < e >
 - mover: WASD
 - resetar: R
+- sair: Q
