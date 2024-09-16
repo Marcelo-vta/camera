@@ -4,4 +4,3 @@ typer
 pathlib
 rich
 setuptools
-os-sys
