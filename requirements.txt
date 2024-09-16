@@ -1,7 +1,6 @@
 numpy
 pandas
 typer
-os
 pathlib
 rich
 setuptools
