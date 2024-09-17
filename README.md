@@ -2,6 +2,9 @@
 
 Minha camera que gira e faz outras coisinhas tb
 
+Para executar:
+  - camera
+
 Comandos:
 
 - rotacionar: < e >
